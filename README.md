@@ -80,7 +80,7 @@ else
 fi
 ```
 
-Файл конфига https://github.com/Ivashka80/Disaster-recovery_Keepalived/blob/main/keepalived.conf
+Файл конфига https://github.com/osipovtema/Disaster_recovery_Keepalived/blob/3c4b12b8aa166da84833c02f28de007402d0d4cd/keepalived.conf
 
 ![image](https://github.com/Ivashka80/Disaster-recovery_Keepalived/assets/121082757/fbf9888d-5acc-4217-95af-2b33df123c20)
 
